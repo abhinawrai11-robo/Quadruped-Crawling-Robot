@@ -1,0 +1,21 @@
+LIBRARIES REQUIRED
+ESP8266
+ESP8266WiFi.h
+WiFiClient.h
+ESP8266WebServer.h
+WebSocketsServer.h
+Hash.h
+
+
+AUD
+Adafruit_PWMServoDriver.h
+FlexiTimer2.h
+SerialCommand.h
+
+
+COMPONENTS REQUIRED
+POWER SUPPLY
+ESP8266
+AURUINO NANO
+PCA9685
+12 SERVO SG 90
